@@ -1,6 +1,3 @@
-Here's a comprehensive README file for your GitHub repository:
-
-```markdown
 # Professional Sports Employee Analysis
 
 ## Description
@@ -83,9 +80,6 @@ This repository contains a comprehensive analysis of employee data from a profes
 ## Contact
 
 For any questions or feedback, please contact:
-- Your Name - [gourinandhanpv@gmail.com](mailto:gourinandhanpv@gmail.com)
+- Gouri Nandhan P V- [gourinandhanpv@gmail.com](mailto:gourinandhanpv@gmail.com)
 
 
-```
-
-Feel free to customize the README file further according to your preferences or specific details about your project.
